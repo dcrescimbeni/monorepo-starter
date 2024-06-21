@@ -1,0 +1,12 @@
+- [ ] Front: Vite + React
+- [ ] Backend: node + express
+- [ ] Database: SQLite
+- [ ] File server: Caddy
+- [ ] Tailwind and shadcn
+
+- [ ] Script should also start caddy server
+- [ ] Script should also start node server
+- [ ] Delete docker stuff
+- [ ] Add README
+- [ ] One command to run dev
+- [ ] One command to build and start
